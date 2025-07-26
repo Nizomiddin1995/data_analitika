@@ -8,3 +8,4 @@ def daraja(a):
     """darajaga ko`taruvchi funksia"""
     print(a**2)
 daraja(5.2)
+daraja(8.36)
