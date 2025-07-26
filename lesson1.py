@@ -4,8 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
-def daraja(a):
+def daraja2(a):
     """darajaga ko`taruvchi funksia"""
-    print(a**2)
-daraja(5.2)
-daraja(8.36)
+    return int(a)*2
+print(daraja2(5))
